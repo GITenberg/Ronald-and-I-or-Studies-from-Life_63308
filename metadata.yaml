@@ -1,0 +1,31 @@
+_repo: Ronald-and-I-or-Studies-from-Life_63308
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pretor, Alfred
+    birthdate: 1840
+    deathdate: 1908
+    gutenberg_agent_id: '52372'
+    url: http://www.gutenberg.org/2009/agents/52372
+description: ''
+gutenberg_issued: '2020-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- !lcsh 'Cousins -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcsh 'Villages -- England -- Fiction'
+- GITenberg
+tableOfContents: 'Broadwater: a shadow from the past -- On the race course at Bayview
+  -- On the sands -- Our Rector -- Echoes from an organ loft -- Fighting the cholera
+  -- Ronald''s courtship -- Judy, or retrieved -- The professor -- The cruel, crawling
+  foam -- Our queen -- Bindo: a sketch -- ''Declined with thanks'': a postscript.'
+title: Ronald and I; or, Studies from Life
+url: http://www.gutenberg.org/ebooks/63308

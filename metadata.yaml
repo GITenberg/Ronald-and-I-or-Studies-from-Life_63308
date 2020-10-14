@@ -1,5 +1,8 @@
 _repo: Ronald-and-I-or-Studies-from-Life_63308
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63308-h/images/cover.jpg
 creator:
   author:
     agent_name: Pretor, Alfred
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52372'
     url: http://www.gutenberg.org/2009/agents/52372
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63308#Ronald-and-I-or-Studies-from-Life
 gutenberg_issued: '2020-09-26'
 gutenberg_type: Text
 identifiers:
